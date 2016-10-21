@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangoData", "MangoData\MangoData.csproj", "{CBFB850D-32BD-4C4F-ADD4-EB6CFBA11D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citi.Mongo.Data", "Citi.Mongo.Data\Citi.Mongo.Data.csproj", "{BBBDDB70-0D96-4406-83B9-6D3B9EF94F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFB850D-32BD-4C4F-ADD4-EB6CFBA11D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFB850D-32BD-4C4F-ADD4-EB6CFBA11D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFB850D-32BD-4C4F-ADD4-EB6CFBA11D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFB850D-32BD-4C4F-ADD4-EB6CFBA11D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBDDB70-0D96-4406-83B9-6D3B9EF94F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBDDB70-0D96-4406-83B9-6D3B9EF94F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBDDB70-0D96-4406-83B9-6D3B9EF94F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBDDB70-0D96-4406-83B9-6D3B9EF94F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
